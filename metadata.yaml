@@ -1,0 +1,38 @@
+_repo: Azalea-at-Sunset-Gap_54813
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nuyttens, Josef Pierre
+    aliases:
+    - Nuyttens, Pierre
+    - Nuyttens, Joseph Pierre
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '6436'
+    url: http://www.gutenberg.org/2009/agents/6436
+creator:
+  author:
+    agent_name: Peattie, Elia Wilkinson
+    alias: Wilkinson, Elia
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '731'
+    url: http://www.gutenberg.org/2009/agents/731
+    wikipedia: http://en.wikipedia.org/wiki/Elia_W._Peattie
+description: ''
+gutenberg_issued: '2017-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'North Carolina -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Blue Ridge Mountains -- Juvenile fiction'
+- GITenberg
+title: Azalea at Sunset Gap
+url: http://www.gutenberg.org/ebooks/54813
